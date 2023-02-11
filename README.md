@@ -14,21 +14,17 @@ Recursos de asignatura de Programación Estructurada
 - :two: [Práctica 2 - Tabla](https://github.com/SrTuns/Universidad/blob/main/1%20Captura%20de%20Datos/captura-de-datos.c)
 - Llenado de tabla con información programada o importada, en donde pondrá por categoría Nombres, Apellidos, Fecha de Nacimiento y RFC
 - :three: [Práctica 3 - Evaluador de Proyectos de Inversión](https://github.com/SrTuns/Universidad/blob/main/1%20Captura%20de%20Datos/captura-de-datos.c)
-- Menú principal con el listado de actividades.
-- :four: [Práctica 0 - Menú Principal](https://github.com/SrTuns/Universidad/blob/main/1%20Captura%20de%20Datos/captura-de-datos.c)
-- Menú principal con el listado de actividades.
-- :five: [Práctica 0 - Menú Principal](https://github.com/SrTuns/Universidad/blob/main/1%20Captura%20de%20Datos/captura-de-datos.c)
-- Menú principal con el listado de actividades.
-- :six: [Práctica 0 - Menú Principal](https://github.com/SrTuns/Universidad/blob/main/1%20Captura%20de%20Datos/captura-de-datos.c)
-- Menú principal con el listado de actividades.
-- :seven: [Práctica 0 - Menú Principal](https://github.com/SrTuns/Universidad/blob/main/1%20Captura%20de%20Datos/captura-de-datos.c)
-- Menú principal con el listado de actividades.
-- :eight: [Práctica 0 - Menú Principal](https://github.com/SrTuns/Universidad/blob/main/1%20Captura%20de%20Datos/captura-de-datos.c)
-- Menú principal con el listado de actividades.
-- :nine: [Práctica 0 - Menú Principal](https://github.com/SrTuns/Universidad/blob/main/1%20Captura%20de%20Datos/captura-de-datos.c)
-- Menú principal con el listado de actividades.
-- :one::zero: [Práctica 0 - Menú Principal](https://github.com/SrTuns/Universidad/blob/main/1%20Captura%20de%20Datos/captura-de-datos.c)
-- Menú principal con el listado de actividades.
+- Algoritmo para evaluar los el porcentaje de exito en una inversión de proyecto.
+- :four: [Práctica 4 - GPS Clasico](https://github.com/SrTuns/Universidad/blob/main/1%20Captura%20de%20Datos/captura-de-datos.c)
+- GPS clasico la cual colocar una dirección y te proporciona una "kml" la cual se puede usar en Google Earth.
+- :five: [Práctica 5 - Conjetura de Collatz](https://github.com/SrTuns/Universidad/blob/main/1%20Captura%20de%20Datos/captura-de-datos.c)
+- Algotirmo para "resolver" la conjetura de collactz.
+- :six: [Práctica 6 - Triángulo](https://github.com/SrTuns/Universidad/blob/main/1%20Captura%20de%20Datos/captura-de-datos.c)
+- Dibujar un triángulo perfecto en una tabla.
+- :seven: [Práctica 7 - Dibujo](https://github.com/SrTuns/Universidad/blob/main/1%20Captura%20de%20Datos/captura-de-datos.c)
+- 7.1 Dibujar cuadradados con valores y colores proporcionados.
+- 7.2 Dibujar espirales con valores y colores proporcionados.
+
 
 ## :mortar_board: Actividad Final
 
