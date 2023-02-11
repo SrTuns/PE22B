@@ -174,7 +174,7 @@ namespace PE22B_MAv2
             int Minutos;
             double Segundos;
 
-            //Obtiene valores en decimal.
+            //Obtiene valores en decimal..
 
             Latitud = double.Parse(TbxLatitud.Text);
             Longitud = double.Parse(TbxLongitud.Text);
